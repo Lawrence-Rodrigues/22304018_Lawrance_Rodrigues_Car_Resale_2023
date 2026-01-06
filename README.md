@@ -1,2 +1,2 @@
-# 22304018_Lawrance_Rodrigues_Car_Resale_2023
+# 22304018_Lawrance_Rodrigues_Loan_Default_Status
 Project on Predictive Analytics
